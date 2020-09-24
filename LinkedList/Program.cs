@@ -12,7 +12,7 @@ namespace LinkedList
             Console.WriteLine("******************");
             Console.WriteLine("* Student Roster *");
             Console.WriteLine("******************");
-            //Console.WriteLine("\n");
+
             LinkedList<String> _studentList = new LinkedList<string>();
 
             Console.WriteLine("How can I help you today?\n");
