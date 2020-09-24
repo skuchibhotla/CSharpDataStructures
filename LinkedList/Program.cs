@@ -59,6 +59,10 @@ namespace LinkedList
                     }
 
                     break;
+
+                default:
+                    Console.WriteLine("Invalid input received. Please re-enter your choice.");
+                    break;
             }
 
             Console.ReadKey();
