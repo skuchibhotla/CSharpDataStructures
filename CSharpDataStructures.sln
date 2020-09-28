@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSDFS", "BFSDFS\BFSDFS.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAndQueue", "StackAndQueue\StackAndQueue.csproj", "{4D6FE591-F533-4BD5-80AF-8F831106FCDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tries", "Tries\Tries.csproj", "{629DABED-96F0-4D45-9B85-E4F531FBC2E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4D6FE591-F533-4BD5-80AF-8F831106FCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D6FE591-F533-4BD5-80AF-8F831106FCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D6FE591-F533-4BD5-80AF-8F831106FCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629DABED-96F0-4D45-9B85-E4F531FBC2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629DABED-96F0-4D45-9B85-E4F531FBC2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629DABED-96F0-4D45-9B85-E4F531FBC2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629DABED-96F0-4D45-9B85-E4F531FBC2E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
