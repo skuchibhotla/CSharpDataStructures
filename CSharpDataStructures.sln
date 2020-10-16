@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphColoring", "GraphColor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graphs", "Graphs\Graphs.csproj", "{0595B07C-838B-47B8-989C-8046D89E17CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSDFS", "BFSDFS\BFSDFS.csproj", "{DC7F1A28-B8B4-47EB-A8CD-537534161958}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFSDFS", "BFSDFS\BFSDFS.csproj", "{DC7F1A28-B8B4-47EB-A8CD-537534161958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAndQueue", "StackAndQueue\StackAndQueue.csproj", "{4D6FE591-F533-4BD5-80AF-8F831106FCDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackAndQueue", "StackAndQueue\StackAndQueue.csproj", "{4D6FE591-F533-4BD5-80AF-8F831106FCDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tries", "Tries\Tries.csproj", "{629DABED-96F0-4D45-9B85-E4F531FBC2E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tries", "Tries\Tries.csproj", "{629DABED-96F0-4D45-9B85-E4F531FBC2E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST", "BST\BST.csproj", "{1BA7F215-804F-411F-8433-3048A64B4847}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{629DABED-96F0-4D45-9B85-E4F531FBC2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{629DABED-96F0-4D45-9B85-E4F531FBC2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{629DABED-96F0-4D45-9B85-E4F531FBC2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA7F215-804F-411F-8433-3048A64B4847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA7F215-804F-411F-8433-3048A64B4847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA7F215-804F-411F-8433-3048A64B4847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA7F215-804F-411F-8433-3048A64B4847}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
