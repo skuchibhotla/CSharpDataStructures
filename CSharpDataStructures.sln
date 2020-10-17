@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackAndQueue", "StackAndQu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tries", "Tries\Tries.csproj", "{629DABED-96F0-4D45-9B85-E4F531FBC2E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST", "BST\BST.csproj", "{1BA7F215-804F-411F-8433-3048A64B4847}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BST", "BST\BST.csproj", "{1BA7F215-804F-411F-8433-3048A64B4847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{6F70932C-271D-496B-B1E7-7AD8A0B363FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFS", "DFS\DFS.csproj", "{6F70932C-271D-496B-B1E7-7AD8A0B363FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterJugProblem", "WaterJugProblem\WaterJugProblem.csproj", "{C9DC5B9A-4145-4399-96F5-06BC5BD00ACE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{6F70932C-271D-496B-B1E7-7AD8A0B363FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F70932C-271D-496B-B1E7-7AD8A0B363FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F70932C-271D-496B-B1E7-7AD8A0B363FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DC5B9A-4145-4399-96F5-06BC5BD00ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DC5B9A-4145-4399-96F5-06BC5BD00ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DC5B9A-4145-4399-96F5-06BC5BD00ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DC5B9A-4145-4399-96F5-06BC5BD00ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
