@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tries", "Tries\Tries.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST", "BST\BST.csproj", "{1BA7F215-804F-411F-8433-3048A64B4847}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{6F70932C-271D-496B-B1E7-7AD8A0B363FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{1BA7F215-804F-411F-8433-3048A64B4847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BA7F215-804F-411F-8433-3048A64B4847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BA7F215-804F-411F-8433-3048A64B4847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F70932C-271D-496B-B1E7-7AD8A0B363FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F70932C-271D-496B-B1E7-7AD8A0B363FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F70932C-271D-496B-B1E7-7AD8A0B363FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F70932C-271D-496B-B1E7-7AD8A0B363FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
